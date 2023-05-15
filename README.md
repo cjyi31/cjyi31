@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/illustration-data-analysis-graph_53876-18131.jpg?w=1380&t=st=1684164167~exp=1684164767~hmac=6fa2fefb50b1e5a4e4bdb7c57a624a9345483bc486241cd7b610a063c6de6af8)
 <h1 align="center">Hi 👋, I'm Grace Choo</h1>
-<h3 align="center">A passionate data nerd, always up for a challenge!</h3>
+<h3 align="center">New to GitHub. A passionate data nerd, always up for a challenge!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
