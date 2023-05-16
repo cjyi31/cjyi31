@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjyi31&label=Profile%20views&color=0e75b6&style=flat" alt="cjyi31" /> </p>
 
-- 🔭 I’m currently working on **analyzing my personal spending.**
+- 📊 I’m currently working on **Customer Analytics and analyzing my own personal spending.**
 
-- 🌱 I’m currently learning **all things data science and data analysis.**
+- 📚 I’m currently learning **all things data science and data analysis.**
 
-- 📫 You can reach me at **cjyi31@gmail.com**
+- ✉ You can reach me at **cjyi31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
