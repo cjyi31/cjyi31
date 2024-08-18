@@ -18,7 +18,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.sas.com/en_si/home.html" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Iw_gm2rtxN-S2CuLlFcJaAHaE3?pid=ImgDet&rs=1" alt="sas" width="60" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+                  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="40"/> </a>
+                  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" alt="powerbi" width="40" height="40"/> </a>
+                  <a href="https://www.sas.com/en_si/home.html" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Iw_gm2rtxN-S2CuLlFcJaAHaE3?pid=ImgDet&rs=1" alt="sas" width="60" height="40"/> </a>
+                    </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjyi31&show_icons=true&locale=en&layout=compact" alt="cjyi31" /></p>
 
